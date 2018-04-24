@@ -9,7 +9,10 @@
     "strictNullChecks": true,
     "noUnusedLocals": true,
     "pretty": true,
-    "lib": ["es2017"]
+    "lib": [
+      "es2017"
+    ],
+    "esModuleInterop": true
   },
   "include": [
     "lib/**/*"
